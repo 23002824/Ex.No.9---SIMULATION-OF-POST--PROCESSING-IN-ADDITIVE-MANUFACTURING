@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![ex9 1](https://github.com/23002824/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151514009/8f87d9b5-5f6f-498c-ba42-69e2379a72cf)
+![ex9 2](https://github.com/23002824/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151514009/58c59d6c-332f-4dc1-a80d-ef794a1b1cd9)
+![ex9 3](https://github.com/23002824/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151514009/46e2dcb0-9247-4403-9509-75deee5c80b0)
 
-### Name:
-### Register Number:
+### Name:Danica Christa Babudurai
+### Register Number:23002824
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
